@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+March 6 2020
 
 # Privacy Policy
 Profits application neither collects **any** data nor logs **any** information on its users.
