@@ -38,8 +38,8 @@ features                                  :
     description                           : Record and manage all your investments.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Customizable
+    description                           : Define new categories to group your investments.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
